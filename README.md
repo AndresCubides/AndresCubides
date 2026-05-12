@@ -1,4 +1,31 @@
-## Hi there 👋
+# Hi, I'm Andrés
+
+I'm an engineer transitioning toward applied AI, geospatial systems, and humanitarian technology.
+
+I'm interested in:
+- AI for social impact
+- Humanitarian innovation
+- Geospatial analysis
+- Resilience and crisis-response systems
+- Human-centered technology
+
+
+## Current Focus
+
+- Refreshing Python and applied AI skills
+- Building practical humanitarian tech projects
+- Exploring geospatial intelligence and AI systems
+- Creating tools with real-world impact
+
+
+## Skills
+
+- Python
+- Pandas
+- Machine Learning
+- Data Visualization
+- GIS / Geospatial Data
+- Humanitarian Operations
 
 <!--
 **AndresCubides/AndresCubides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
